@@ -13,6 +13,7 @@ public class preet {
 		String personName = keyboard.nextLine();
 		
 		System.out.println("Hello " + personName);
+		System.out.println("What is your age?");
 
 	}
 
